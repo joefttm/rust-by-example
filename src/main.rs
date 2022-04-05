@@ -1,3 +1,5 @@
+mod hello;
+
 fn main() {
-    println!("Hello, world!");
+    hello::joe_format_print();
 }
